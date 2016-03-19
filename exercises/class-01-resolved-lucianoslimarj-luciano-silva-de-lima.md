@@ -8,6 +8,6 @@
 ## 4. Como o Thread Pool tem um tamanho padrão de 4, o que acontece se você enviar 
 ##    5 requisições ao banco ? 
 ## 5. Como você venderia o peixe do Node.js na sua empresa para tentar convencer
-##	seu chefe da sua adoção ?
+##    seu chefe da sua adoção ?
 ## 6. Qual a versão do seu `node`?
 ## 7. Qual a versão do seu `npm`?
